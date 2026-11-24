@@ -1,3 +1,9 @@
+# EXP.NO : 09
+# NAME : MEIYAPPAN S
+# REF.NO : 212225080029
+# DATE : 24/11/2007
+
+
 # Ex.No-09-Building-a-Simple-AI-Agent-AI-Tourist-Guiide-for-India
 ## Aim : To design, implement and test a simple goal-based AI agent in Python that plans a personalised India trip itinerary for a tourist, based on the tourist's interest, trip duration and daily budget.
 Introduction
